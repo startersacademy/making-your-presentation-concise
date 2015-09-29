@@ -1,0 +1,37 @@
+inverted_pyramid: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Inverted_pyramid_2.svg/1201px-Inverted_pyramid_2.svg.png
+
+lousy-t-shirt: http://www.customink.com/lab#
+
+orangutan: http://pamschreck.com/yahoo_site_admin/assets/images/Sunrise_Stroll_March_2008_332a.99100739_large.JPG
+
+otter: http://blogs.sandiegozoo.org/wp-content/uploads/2012/07/A3P2375.jpg
+
+panda: http://adorab.ly/wp-content/uploads/2015/05/Giant-panda-bear-widescreen-images-hd-wallpapers-free-download.jpg
+
+plane-takeoff: http://media.nbcsandiego.com/images/1200*675/Southwest-Airlines-722x406.jpg
+
+polar-bear: http://media.theamateurexpert.com/wp-content/uploads/2013/06/IMG_6960.jpg?c95379
+
+sd-skyline: http://www.sandiego.com/sites/sandiego.com/files/styles/large/public/content/featured-content/sd-tour-1.jpg?itok=8KDQcQ5u
+
+seaport-village: https://s-media-cache-ak0.pinimg.com/736x/3d/bc/57/3dbc57e22868be3a15b157b2d11db00d.jpg
+
+seaworld: http://archive.azcentral.com/i/F/6/3/PHP503E60957836F.jpg
+
+starofindia: https://upload.wikimedia.org/wikipedia/commons/6/6b/Starofindia.jpg
+
+tour-map: https://www.google.com/maps/d/u/0/edit?mid=zVIt6oXa_zLM.k3ltw3K3Dji0
+
+tour-map-2-stops: https://www.google.com/maps/d/u/0/edit?mid=zVIt6oXa_zLM.k3ltw3K3Dji0
+
+tunnel: http://www.pxleyes.com/images/contests/vanishing-point/fullsize/Lehigh-Tunnel-at-70MPH-4cf085419477b_hires.jpg
+
+zoo: http://zoo.sandiegozoo.org/sites/default/files/hours.jpg
+
+zoo-animals-collage: http://3.bp.blogspot.com/-KURlC--ien4/VdPQ8IeVlRI/AAAAAAAASAg/l1X-rqa3Qdk/s1600/zoo-animals-collage-management-science.jpg
+
+
+Starters Academy
+----------------
+tsa-logo
+
