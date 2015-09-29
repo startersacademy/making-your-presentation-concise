@@ -19,4 +19,9 @@ $class:white-background$
 <h1 class="left no-margin" style="padding-left: 300px;">
   Impact
 </h1>
-## shot of pyramid
+
+Note:
+
+By structuring your presentation content for time and impact, you can maximize the experience.
+
+

@@ -1,6 +1,5 @@
 $class:white-background$
 
-<!-- shot of BBP like worksheet -->
 <h1 class="left" style="
   height: 90px;
   margin-bottom: 20px;
@@ -21,4 +20,8 @@ $class:white-background$
   Impact
 </h1>
 
-### Shot of pyarmid
+Note:
+
+It comes back to structure.
+
+Structure your presentation for time and impact.
